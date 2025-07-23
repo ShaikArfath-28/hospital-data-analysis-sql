@@ -48,10 +48,11 @@ ORDER BY total_patients DESC
 LIMIT 3;
 ```
 ---
-## 🔍 Project Purpose
+## 🔍 Project Purpose 
+
 This assignment was completed as part of a learning challenge and demonstrates how SQL can be applied to analyze real-world healthcare data.
 The queries are structured to be beginner-friendly while solving meaningful business questions.
----
+
 ## 🤝 Connect with Me
 
 I'm actively building my portfolio in SQL and data analytics.  
